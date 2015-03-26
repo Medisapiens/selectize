@@ -1,0 +1,22 @@
+{
+  "name": "Selectize",
+  "repo": "jnoksoko/Selectize.js",
+  "description": "Selectize component",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "components/jquery": "*"
+  },
+  "development": {},
+  "license": "Apache",
+  "main": "dist/js/standalone/selectize.min.js",
+  "scripts": [
+    "dist/js/standalone/selectize.min.js",
+  ],
+  "styles": [
+    "dist/css/selectize.css",
+    "dist/css/selectize.default.css",
+    "dist/css/selectize.bootstrap2.css",
+    "dist/css/selectize.bootstrap3.css"
+  ]
+}

@@ -9,9 +9,9 @@
   },
   "development": {},
   "license": "Apache",
-  "main": "dist/js/standalone/selectize.min.js",
+  "main": "dist/js/standalone/selectize.js",
   "scripts": [
-    "dist/js/standalone/selectize.min.js"
+    "dist/js/standalone/selectize.js"
   ],
   "styles": [
     "dist/css/selectize.css",

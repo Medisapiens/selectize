@@ -1,19 +1,19 @@
 {
   "name": "selectize",
-  "repo": "jnoksoko/selectize",
+  "repo": "selectize",
   "description": "Selectize component",
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {
-    "components/jquery": "*",
-    "sifter": "*",
-    "microplugin": "*"
+    "components/jquery": "*"
   },
   "development": {},
   "license": "Apache",
-  "main": "dist/js/standalone/selectize.js",
+  "main": "dist/js/selectize.js",
   "scripts": [
-    "dist/js/standalone/selectize.js"
+    "dist/js/selectize.js",
+    "dist/js/sifter.js",
+    "dist/js/microplugin.js"
   ],
   "styles": [
     "dist/css/selectize.css",

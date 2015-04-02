@@ -17,8 +17,6 @@
   ],
   "styles": [
     "dist/css/selectize.css",
-    "dist/css/selectize.default.css",
-    "dist/css/selectize.bootstrap2.css",
     "dist/css/selectize.bootstrap3.css"
   ]
 }
